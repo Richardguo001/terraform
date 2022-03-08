@@ -9,9 +9,9 @@ terraform {
 
 #Configure the HuaweiCloud Provider
 provider "huaweicloud" {
-  region                    = "ap-southeast-3"
-  access_key                = "OUIHTOUUSJPSUVDT6ZKD"
-  secret_key                = "KsmuIW3fminxPSvF9MDsAE8X2qN8GQiR2PSTNAux"
+  region                    = ""
+  access_key                = ""
+  secret_key                = ""
   enterprise_project_id     = "49e251d9-baf2-4296-a5bf-201aec76edd0"
 
 }
